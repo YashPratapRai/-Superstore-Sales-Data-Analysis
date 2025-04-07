@@ -1,7 +1,7 @@
 Superstore-Sales-Data-Analysis
 This project analyzes the Superstore dataset using Python. It includes exploratory data analysis (EDA), data visualization, and key business insights. The goal is to uncover patterns and trends in sales, profits, and customer behavior to help drive better decision-making.
 
-## Objectives for this project are asd follows:-
+## Objectives for this project are as follows:-
 1: Total Sales & Profit by Category to get the best  category.
 2: Pinpoint top-profit sub-categories  and negative-margin products to optimize inventory and promotions.
 3: Compare regional sales performance to allocate resources effectively, focusing on high-growth areas .
