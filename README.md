@@ -9,3 +9,4 @@ This project analyzes the Superstore dataset using Python. It includes explorato
 5: Identify seasonal peaks (e.g., holiday spikes) to plan inventory and marketing campaigns proactively.
 6: Rank products by profitability to prioritize marketing efforts and discontinue loss-making items(Top 10 Profitable Products)
 7: Discount-Strategy Optimization (HeatMap Correlation)
+8: Customer segment analysis
